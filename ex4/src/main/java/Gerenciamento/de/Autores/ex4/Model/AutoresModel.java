@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 import java.time.LocalDate;
 
-@Entity(name = "Autores")
+@Entity(name = "Autor")
 @Table(name = "tb_autor")
 public class AutoresModel {
 
